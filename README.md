@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+# Customizie the Appearance of a Vue Pivot Table Using Templates and Conditional Formatting
+A quick start Vue project that shows how to display profit, loss and neutral icons to the pivot table cells using templates. This project also includes a code snippet for customizing the appearance of the value cells using the conditional formatting.  
+ 
+Refer to the following documentation to learn about the Vue Pivot Table component: 
+https://ej2.syncfusion.com/vue/documentation/pivotview/conditional-formatting
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Check out this online example of the Vue Pivot Table Component:
+https://ej2.syncfusion.com/vue/demos/#/material3/pivot-table/conditional-formatting.html
+https://ej2.syncfusion.com/vue/demos/#/material3/pivot-table/cell-template.html
 
-## Recommended IDE Setup
+Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### How to run this application?
+To run this application, you need to clone the `customize-the-appearance-of-a-vue-pivot-table-using-templates-and-conditional-formatting` repository and then open it in Visual Studio Code. Now, simply install all the necessary vue packages into your current project using the `npm install` command and run your project using the `npm run dev` command.
